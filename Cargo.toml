@@ -1,0 +1,18 @@
+[package]
+name = "rustbp_avocado"
+version = "0.1.0"
+authors = ["Árpád Goretity <h2co3@h2co3.org>"]
+edition = "2018"
+
+[dependencies]
+avocado = "0.3.3"
+avocado_derive = "0.3.3"
+magnet_schema = "0.8.0"
+magnet_derive = "0.8.0"
+serde = "1.0.89"
+serde_derive = "1.0.89"
+serde_json = "1.0.39"
+bson = "0.13.0"
+textnonce = "0.6.4"
+chrono = { version = "0.4.6", features = ["serde"] }
+semver = { version = "0.9.0", features = ["serde"] }

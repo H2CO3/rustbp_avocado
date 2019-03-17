@@ -1,0 +1,46 @@
+[
+  {
+    "_id": { "$oid": "507f191e810c19729de860e9" },
+    "name": "mongodb",
+    "version": "0.3.12",
+    "description": "Loosely-typed MongoDB client library",
+    "authors": [],
+    "categories": ["database", "database-implementations"],
+    "updated_at": "2019-03-16T21:38:41.867248+00:00",
+    "downloads": 33296,
+    "dependencies": []
+  },
+  {
+    "_id": { "$oid": "507f191e810c19729de860ea" },
+    "name": "avocado",
+    "version": "0.3.3",
+    "description": "Strongly-typed MongoDB client library",
+    "authors": [],
+    "categories": ["database", "database-implementations"],
+    "updated_at": "2019-03-16T21:38:41.867248+00:00",
+    "downloads": 1338,
+    "dependencies": []
+  },
+  {
+    "_id": { "$oid": "507f191e810c19729de860eb" },
+    "name": "serde",
+    "version": "1.0.89",
+    "description": "Generic Serialization Library",
+    "authors": [],
+    "categories": ["parsing", "parser-implementations"],
+    "updated_at": "2019-03-16T21:38:41.867248+00:00",
+    "downloads": 236487590,
+    "dependencies": []
+  },
+  {
+    "_id": { "$oid": "507f191e810c19729de860ec" },
+    "name": "dummy",
+    "version": "0.3.3",
+    "description": "Just a crate to demonstrate version queries",
+    "authors": [],
+    "categories": ["gui"],
+    "updated_at": "2019-03-16T21:38:41.867248+00:00",
+    "downloads": 12,
+    "dependencies": []
+  }
+]
